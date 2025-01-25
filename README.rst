@@ -74,18 +74,18 @@ Please, if you find this software useful in your work, reference it citing the f
 
 .. code-block::
 
-@article{ramos-carreno+rossi_2024_rdata,
-    author = {Ramos-Carreño, Carlos and Rossi, Tuomas},
-    doi = {10.21105/joss.07540},
-    journal = {Journal of Open Source Software},
-    month = dec,
-    number = {104},
-    pages = {1--4},
-    title = {{rdata: A Python library for R datasets}},
-    url = {https://joss.theoj.org/papers/10.21105/joss.07540#},
-    volume = {9},
-    year = {2024}
-}
+  @article{ramos-carreno+rossi_2024_rdata,
+      author = {Ramos-Carreño, Carlos and Rossi, Tuomas},
+      doi = {10.21105/joss.07540},
+      journal = {Journal of Open Source Software},
+      month = dec,
+      number = {104},
+      pages = {1--4},
+      title = {{rdata: A Python library for R datasets}},
+      url = {https://joss.theoj.org/papers/10.21105/joss.07540#},
+      volume = {9},
+      year = {2024}
+  }
 
 You can additionally cite the software repository itself using:
 
