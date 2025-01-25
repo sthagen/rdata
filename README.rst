@@ -192,17 +192,14 @@ found in the
 
 .. |build-status| image:: https://github.com/vnmabus/rdata/actions/workflows/main.yml/badge.svg?branch=master
     :alt: build status
-    :scale: 100%
     :target: https://github.com/vnmabus/rdata/actions/workflows/main.yml
 
 .. |docs| image:: https://readthedocs.org/projects/rdata/badge/?version=latest
     :alt: Documentation Status
-    :scale: 100%
     :target: https://rdata.readthedocs.io/en/latest/?badge=latest
     
 .. |coverage| image:: http://codecov.io/github/vnmabus/rdata/coverage.svg?branch=develop
     :alt: Coverage Status
-    :scale: 100%
     :target: https://codecov.io/gh/vnmabus/rdata/branch/develop
 
 .. |repostatus| image:: https://www.repostatus.org/badges/latest/active.svg
@@ -211,24 +208,19 @@ found in the
 
 .. |versions| image:: https://img.shields.io/pypi/pyversions/rdata
    :alt: PyPI - Python Version
-   :scale: 100%
     
 .. |pypi| image:: https://badge.fury.io/py/rdata.svg
     :alt: Pypi version
-    :scale: 100%
     :target: https://pypi.python.org/pypi/rdata/
 
 .. |conda| image:: https://anaconda.org/conda-forge/rdata/badges/version.svg
     :alt: Conda version
-    :scale: 100%
     :target: https://anaconda.org/conda-forge/rdata
 
 .. |zenodo| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.6382237.svg
     :alt: Zenodo DOI
-    :scale: 100%
     :target: https://doi.org/10.5281/zenodo.6382237
     
 .. |pyOpenSci| image:: https://tinyurl.com/y22nb8up
     :alt: pyOpenSci: Peer reviewed
-    :scale: 100%
     :target: https://github.com/pyOpenSci/software-submission/issues/144
